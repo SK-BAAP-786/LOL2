@@ -4,4 +4,4 @@ cd LOL2
 
 git pull
 
-Python usman1.py
+python usman1.py
